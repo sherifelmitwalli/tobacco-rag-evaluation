@@ -1,0 +1,11 @@
+pypdf
+openai==0.28
+chromadb
+typing
+sentence-transformers
+transformers
+deepinfra[openai]
+numpy
+pandas
+matplotlib
+torch
